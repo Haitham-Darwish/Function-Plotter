@@ -185,11 +185,3 @@ max_box.bind("<Leave>", leave)
 
 # Loop the GUI
 root.mainloop()
-
-
-'''
-https://www.kindacode.com/article/examples-of-numpy-linspace-in-python/#:~:text=The%20numpy.linspace%20%28%29%20function%20returns%20an%20ndarray%20with,using%20the%20numpy.linspace%20%28%29%20function%20in%20Python%20programs.
-https://stackoverflow.com/questions/31440167/placing-plot-on-tkinter-main-window-in-python
-https://docs.python.org/3/library/tkinter.messagebox.html#:~:text=The%20tkinter.messagebox%20module%20provides%20a%20template%20base%20class,and%20layouts%20include%20but%20are%20not%20limited%20to%3A
-
-'''
