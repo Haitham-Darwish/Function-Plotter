@@ -1,4 +1,6 @@
-# Function-Plotter
+# Introduction
+- Simple GUI that used to plot any function(polynomial, trig ...etc)
+# Some examples
 - Used to plot any function 
 ![plot1](https://user-images.githubusercontent.com/68920161/167498260-04baf5b0-f159-403b-9c20-f12a62c9883c.png)
 
